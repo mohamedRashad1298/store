@@ -1,0 +1,90 @@
+[
+ {
+  "_id":"010",
+  "name":"Demmbbell",
+  "description":"Dumbbell set with soft coated",
+  "price":35,
+    "type":"sports",
+    "image":"https://firebasestorage.googleapis.com/v0/b/fir-54225.appspot.com/o/prod10.jpg?alt=media&token=4b920161-1dca-4c6d-94a5-bbe3f6d91801"
+},
+ {
+  "_id":"011",
+  "name":"katel",
+  "description":"Fresh electric kettle ",
+  "price":59,
+    "type":"kitchen",
+    "image":"https://firebasestorage.googleapis.com/v0/b/fir-54225.appspot.com/o/prod11.jpg?alt=media&token=83e8aa7b-b305-4558-a0a6-ea80cf78ef79"
+},
+ {
+  "_id":"100",
+  "name":"SportQ",
+  "description":"SportQ  Exercise Rod Gym ",
+  "price":30,
+    "type":"sports",
+    "image":"https://firebasestorage.googleapis.com/v0/b/fir-54225.appspot.com/o/prod12.jpg?alt=media&token=ced19c20-a14a-4a95-b17e-9c2a6125e44c"
+},
+ {
+  "_id":"101",
+  "name":"Watch",
+  "description":"haned watch with black color ",
+  "price":15,
+    "type":"accessories",
+    "image":"https://firebasestorage.googleapis.com/v0/b/fir-54225.appspot.com/o/prod1.jpg?alt=media&token=f412f6d3-9aed-4055-81b7-a25398a05c21"
+},
+ {
+  "_id":"111",
+  "name":"Vivo phone",
+  "description":"Black phone with two cameras ",
+  "price":299,
+    "type":"electronics",
+    "image":"https://firebasestorage.googleapis.com/v0/b/fir-54225.appspot.com/o/prod2.jpg?alt=media&token=0756db92-e53a-43da-bd0d-93e863880595"
+},
+ {
+  "_id":"200",
+  "name":"Backpack",
+  "description":" Laptop Travel Backpack",
+  "price":80,
+    "type":"accessories",
+    "image":"https://firebasestorage.googleapis.com/v0/b/fir-54225.appspot.com/o/prod3.jpg?alt=media&token=ba369dcd-34d2-45e0-8f1c-48874a8c3c4b"
+},
+ {
+  "_id":"201",
+  "name":"mixer",
+  "description":"Kenwood Glass Blender 1KW.Pow ",
+  "price":120,
+    "type":"kitchen",
+    "image":"https://firebasestorage.googleapis.com/v0/b/fir-54225.appspot.com/o/prod%204.jpg?alt=media&token=15f198f4-6910-4f59-8443-032b41cab52f"
+},
+ {
+  "_id":"202",
+  "name":"PS5",
+  "description":"white sony Playstation 5",
+  "price":500,
+    "type":"electronics",
+    "image":"https://firebasestorage.googleapis.com/v0/b/fir-54225.appspot.com/o/prod%205.jpg?alt=media&token=a1b52e55-2f89-479f-81e9-17fa7a2fdf4e"
+},
+ {
+  "_id":"203",
+  "name":"samsung Tv",
+  "description":"Samsung smart tv crystal UHD",
+  "price":800,
+    "type":"electronics",
+    "image":"https://firebasestorage.googleapis.com/v0/b/fir-54225.appspot.com/o/prod%206.jpg?alt=media&token=74a22acb-5516-47ba-b85e-ea221c65ca8b"
+},
+ {
+  "_id":"204",
+  "name":"pants",
+  "description":"Black Pants with good look",
+  "price":18,
+    "type":"clothes",
+    "image":"https://firebasestorage.googleapis.com/v0/b/fir-54225.appspot.com/o/prod9.jpg?alt=media&token=4b1d2138-b202-48fc-a2d1-58fe55f942af"
+},
+ {
+  "_id":"205",
+  "name":"colored Shirt",
+  "description":"A shirt with good looking colors ",
+  "price":25,
+    "type":"clothes",
+    "image":"https://firebasestorage.googleapis.com/v0/b/fir-54225.appspot.com/o/prod8.jpg?alt=media&token=c23be950-f2d4-4f37-b135-9b68a43121dd"
+}
+]

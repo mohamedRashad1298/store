@@ -1,0 +1,41 @@
+.container{
+ margin: 10%;
+ padding-left: 10px;
+}
+.title{
+ font-size: 32px;
+ font-weight: 600;
+ margin-bottom: 50px;
+}
+
+.Products__list{
+ margin-top: 20px;
+ margin-left: 20px;
+
+}
+
+.checkoutButton, .emptyButton{
+ border: none;
+ font-size: medium;
+ border: none;
+ color: white;
+ font-weight: bold;
+ padding: 10px 15px ;
+ margin-left: 10px;
+ border-radius: 20px;
+ cursor: pointer;
+}
+
+.checkoutButton{
+ background-color: rgb(13, 13, 153);
+}
+.checkoutButton:hover{
+ background-color: rgb(0, 0, 253);
+}
+
+.emptyButton{
+background-color: rgb(190, 11, 11);
+}
+.emptyButton:hover{
+background-color: red;
+}
